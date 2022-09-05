@@ -1,21 +1,3 @@
-# FastRuby.io Blog
-
-This repository has been archived. It was moved inside of FastRuby.io repository. Please visit https://github.com/ombulabs/fastruby.io to contribute. 
-
-Blog for the FastRuby.io using Jekyll as the blog-engine.
-
-## Installation
-
-To get the blog up and running in a local environment, follow the steps below:
-
-1. Clone the repository: `git clone git@github.com:fastruby/blog.git`
-2. Setup `.ruby-version` if you're using RVM.
-3. Run `bundle install` to install Jekyll and other dependencies.
-4. Start the blog by running `bundle exec jekyll serve`.
-
-You can then access the blog at localhost:4000 (default port).
-
-By default, the auto-regeneration is enabled, so any changes on HTML, CSS or posts will be auto-regenerated/compiled and viewable by refreshing the browser.
 
 ## Creating a new post
 
